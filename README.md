@@ -103,10 +103,12 @@
 <p align="center"> 
   &emsp;
     <img alt="Sql" src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white"style="width: 130px;">
-
   </a>
   &emsp;
     <img alt="MySql" src="https://img.shields.io/badge/MySQL-orange?logo=Mysql&logoColor=white&logoSize=auto"style="width: 180px;">
+  </a> 
+  &emsp;
+    <img alt="SqlServer" src="https://img.shields.io/badge/SQLServerManagement-yellow?logo=SQLServerManagement&logoColor=yellow"style="width: 350px;">
   </a> 
 </p>
 </div>
