@@ -76,37 +76,37 @@
 
 <p align="center"> 
   &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/PYTHON-orange?logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-orange?logo=python&logoColor=white"style="width: 160px;">
 
   </a>
   &emsp;
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white"style="width: 130px;">
   </a> 
 </p>
 
-<h2> Data Analytics & BI Tools</h2><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> 
+<h2> Data Analytics & BI Tools<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> </h2>
 
 <p align="center"> 
   &emsp;
-    <img alt="PowerBi" src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=white">
+    <img alt="PowerBi" src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=white"style="width: 130px;">
 
   </a>
   &emsp;
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-blue?logo=Tableau&logoColor=white">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-blue?logo=Tableau&logoColor=white"style="width: 130px;">
   </a> 
   &emsp;
-    <img alt="Excel" src="https://img.shields.io/badge/Excel-green?logo=Excel&logoColor=white">
+    <img alt="Excel" src="https://img.shields.io/badge/Excel-green?logo=Excel&logoColor=white"style="width: 95px;">
   </a>
 </p>
     <h2>Databases</h2>
 
 <p align="center"> 
   &emsp;
-    <img alt="Sql" src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white">
+    <img alt="Sql" src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white"style="width: 130px;">
 
   </a>
   &emsp;
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-orange?logo=Mysql&logoColor=white&logoSize=auto">
+    <img alt="MySql" src="https://img.shields.io/badge/MySQL-orange?logo=Mysql&logoColor=white&logoSize=auto"style="width: 180px;">
   </a> 
 </p>
 </div>
